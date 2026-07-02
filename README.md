@@ -82,7 +82,7 @@ seeds-classification/
 ## ▶️ Installation
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/seeds-classification.git
+git clone https://github.com/tamilselvan032006-png/seeds-classification.git
 
 cd seeds-classification
 
